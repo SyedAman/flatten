@@ -1,0 +1,27 @@
+{
+  "name": "@syednashikaman/flatten",
+  "version": "0.1.0",
+  "description": "A helper function that lets you recursively flatten arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedAman/flatten.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "recursion",
+    "flatten",
+    "flatten",
+    "arrays"
+  ],
+  "author": "Syed Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedAman/flatten/issues"
+  },
+  "homepage": "https://github.com/SyedAman/flatten#readme"
+}
