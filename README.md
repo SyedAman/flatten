@@ -1,4 +1,5 @@
 # Flatten
+A helper function that lets you recursively flatten arrays.
 
 ## How to Use
 
@@ -19,4 +20,4 @@ or
 
 ```sh
 $ yarn add @syednashikaman/flatten
-```sh
+```
