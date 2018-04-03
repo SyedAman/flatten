@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-const flatten = require('../index');
+const flatten = require('../');
 
 let nestedArray, expectedFlatArray;
 
